@@ -6,13 +6,13 @@ Welcome to my academic portfolio for CEP146
 - Name: Gabriel Luis Folador Da Silva
 - Major: CPP
 - Year: 2025
-- Favorite Programming Language: .lua /Nice formatting! The checklist format makes it easy to track progress.
+- Favorite Programming Language: .lua 
 
 ## Course Goals
 - [ ] Learn version control with Git and GitHub
 - [ ] Complete all lab assignments
 - [ ] Build a professional portfolio
-- [ ] Collaborate on group projects
+- [ ] Collaborate on group projects ///Nice formatting! The checklist format makes it easy to track progress.
 
 ## Projects
 *This section will be updated as I complete assignments*
